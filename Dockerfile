@@ -1,4 +1,3 @@
-FROM bootcampgroup3/digi
 MAINTAINER JZ
 
 ADD files/etc/yum.repos.d/nginx.repo /etc/yum.repos.d/nginx.repo
